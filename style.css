@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.panel-1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 170px;
+  height: 60px;
+  background-color: pink;
+}
+.sidebar {
+  width: 40px;
+  height: 40px;
+  padding: 8px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: azure;
+  /* font-size: 1rem; */
+}
+.logo {
+  width: 120px;
+  background-color: antiquewhite;
+  padding: 18px 14px 18px 16px;
+}
+.logo i {
+  font-size: 1.2rem;
+}
